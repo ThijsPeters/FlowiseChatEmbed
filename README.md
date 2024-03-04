@@ -133,7 +133,7 @@ You can also customize chatbot with different configuration
         textInput: {
           placeholder: 'Type your question',
           backgroundColor: '#ffffff',
-          textColor: '#303235',
+          textColor: '#000000',
           sendButtonColor: '#3B81F6',
         },
       },
