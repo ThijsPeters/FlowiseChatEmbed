@@ -55,7 +55,7 @@ export const Badge = (props: Props) => {
         style={{ 'font-weight': 'bold', color: props.poweredByTextColor ?? defaultTextColor }}
       >
         <span> Flowise</span>
-      </a> */}
+      </a>  test text*/}
     </span>
   );
 };
